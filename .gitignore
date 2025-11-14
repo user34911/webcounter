@@ -4,3 +4,4 @@ __pycache__/
 htmlcov/
 .coverage
 geckodriver-*.log
+selenium-screenshot-*.png
